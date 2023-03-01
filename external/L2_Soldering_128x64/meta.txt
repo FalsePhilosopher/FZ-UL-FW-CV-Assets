@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 9
+Active frames: 5
+Frames order: 0 1 2 3 4 5 6 7 8 9 10 9 10 9
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 2
+
+Slot: 0
+X: 71
+Y: 28
+Text: I am edging\nright now
+AlignH: Left
+AlignV: Center
+StartFrame: 10
+EndFrame: 13
+
+Slot: 1
+X: 71
+Y: 28
+Text: I burn myself\nwith this
+AlignH: Left
+AlignV: Center
+StartFrame: 10
+EndFrame: 13

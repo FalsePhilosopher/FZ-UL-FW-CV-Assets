@@ -1,0 +1,50 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 10
+Active frames: 2
+Frames order: 0 1 2 3 4 5 6 7 8 9 10 11
+Active cycles: 8
+Frame rate: 3
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 2
+
+Slot: 0
+X: 60
+Y: 30
+Text: Some fuck\nwe made
+AlignH: Left
+AlignV: Center
+StartFrame: 10
+EndFrame: 17
+
+Slot: 0
+X: 60
+Y: 30
+Text: It's a fuckware\nupgrade!
+AlignH: Left
+AlignV: Center
+StartFrame: 18
+EndFrame: 25
+
+Slot: 1
+X: 60
+Y: 30
+Text: Mustache Rides!
+AlignH: Left
+AlignV: Center
+StartFrame: 10
+EndFrame: 17
+
+Slot: 1
+X: 60
+Y: 30
+Text: dix galore!
+AlignH: Left
+AlignV: Center
+StartFrame: 18
+EndFrame: 25

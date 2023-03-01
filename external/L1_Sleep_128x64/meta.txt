@@ -1,0 +1,59 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 2
+Active frames: 4
+Frames order: 0 1 2 3 2 3
+Active cycles: 2
+Frame rate: 2
+Duration: 3600
+Active cooldown: 5
+
+Bubble slots: 4
+
+Slot: 0
+X: 53
+Y: 20
+Text: In a lucid dream,\nI could fuck...
+AlignH: Left
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 9
+
+Slot: 1
+X: 53
+Y: 20
+Text: OH MY GOD!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 5
+
+Slot: 1
+X: 53
+Y: 31
+Text: This dildo\nSLAPS!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 6
+EndFrame: 9
+
+Slot: 2
+X: 5
+Y: 28
+Text: Tuck me in\nbig boi ;)
+AlignH: Right
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 9
+
+Slot: 3
+X: 5
+Y: 28
+Text: Face down\ntail up!
+AlignH: Right
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 9
