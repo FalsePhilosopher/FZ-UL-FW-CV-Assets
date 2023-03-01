@@ -8,10 +8,10 @@ sha1=218dedd4f38e25fc871053e5bdbbc9bfe5d7957a
 
 # Instructions to build/maintain your own CE FW
 1. `git clone https://github.com/FalsePhilosopher/CE-FW-assets`<br>
-2. For OFW `git clone --recursive https://github.com/flipperdevices/flipperzero-firmware` for UL `git clone --recursive https://github.com/DarkFlippers/unleashed-firmware.git`<br>
+2. For OFW `git clone --recursive https://github.com/flipperdevices/flipperzero-firmware`<br> for UL `git clone --recursive https://github.com/DarkFlippers/unleashed-firmware.git`<br>
 3. Overwrite the dolphin meta assets located `FW root folder>assets>dolphin` using the ones provided in this repo.<br>
 4. Build the FW(refer to fbt.md  for more info on how [here](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md)) `./fbt COMPACT=1 DEBUG=0 updater_package`
-5. For updates<br>
-- pull updates `git pull`<br>
+5. For updates
+- go to FW folder and pull updates `git pull`<br>
 - clear build files `./fbt COMPACT=1 DEBUG=0 updater_package -c`<br>
 - build fw `./fbt COMPACT=1 DEBUG=0 updater_package`
