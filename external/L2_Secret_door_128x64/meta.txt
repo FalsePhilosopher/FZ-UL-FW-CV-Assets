@@ -1,0 +1,59 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 29
+Active frames: 24
+Frames order: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 1
+
+Slot: 0
+X: 71
+Y: 23
+Text:Where these\nhoes at?
+AlignH: Left
+AlignV: Center
+StartFrame: 8
+EndFrame: 11
+
+Slot: 0
+X: 71
+Y: 23
+Text: I'm finna\nBust!!!
+AlignH: Left
+AlignV: Center
+StartFrame: 9
+EndFrame: 9
+
+Slot: 0
+X: 71
+Y: 23
+Text: Shit!\nWhat's the\npassword\nto the orgy?
+AlignH: Left
+AlignV: Center
+StartFrame: 33
+EndFrame: 34
+
+Slot: 0
+X: 71
+Y: 23
+Text: I eat ass
+AlignH: Left
+AlignV: Center
+StartFrame: 36
+EndFrame: 36
+
+Slot: 0
+X: 71
+Y: 23
+Text: OMYTFYB!
+AlignH: Left
+AlignV: Center
+StartFrame: 50
+EndFrame: 50

@@ -16,7 +16,7 @@ Bubble slots: 1
 Slot: 0
 X: 71
 Y: 23
-Text: swap.avi\ntwogirls\nonecup
+Text: swap.avi\nthe pounder\nfaces of death
 AlignH: Left
 AlignV: Center
 StartFrame: 8
