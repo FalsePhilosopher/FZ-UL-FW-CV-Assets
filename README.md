@@ -1,5 +1,5 @@
-# CE-FW-assets
-Inspired by a 90's portable cartridge game console rom hack of "battle monsters" red.<br>
+# FZ-UL-FW-CV-Assets
+Asset swap for Unleashed firmware inspired by a 90's portable cartridge game console rom hack of "battle monsters" red.<br>
 https://archive.org/download/PokemonCockVersion/Pokemon%20-%20Cock%20Version%20%28Bootleg%29.zip <br>
 size=375378 (366.6 KiB)<br>
 md5=6ad910a77b3c6a753a46af51a8efefd2<br>
